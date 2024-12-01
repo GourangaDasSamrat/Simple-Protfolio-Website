@@ -20,7 +20,7 @@ This project is a modern, minimalistic, and fully responsive portfolio designed 
 ## 📸 Live Demo
 
 Experience the website live on CodePen:
-👉 Simple Portfolio Website Demo
+[👉 Simple Portfolio Website Demo](https://codepen.io/Gouranga-Das-Samrat/pen/raBVyOR)
 
 
 ---
