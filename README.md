@@ -40,14 +40,14 @@ CSS3: For styling and responsive design.
 
 ## 🛠️ How to Use
 
-1. Clone this repository:
-
-git clone git@github.com:GourangaDasSamrat/Simple-Protfolio-Website.git
+1. Clone the repository:  
+   ```bash
+   git clone git@github.com:GourangaDasSamrat/Simple-Protfolio-Website.git
 
 
 2. Open the project directory:
-
-cd Simple-Protfolio-Website
+   ```bash
+   cd Simple-Protfolio-Website
 
 
 3. Launch index.html in your favorite browser:
